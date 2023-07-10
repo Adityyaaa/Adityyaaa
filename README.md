@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **The first website ever created was dedicated to information about the World Wide Web project. It was developed by Tim Berners-Lee and went live on August 6, 1991.**
 
- <h3 align-="left">Here's what i'm listening to-</h3>
+ <h3 align-="left">Here's what I'm listening to-</h3>
 
 [![Spotify](https://adityyaaa.vercel.app/api/spotify)](https://open.spotify.com/user/Aditya)
 
