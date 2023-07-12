@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Wardrobe Customization Website**
 
-- ✌️Here is my [website](https://adityyaaa.github.io/](https://adityyaaa-github-5m9qicn8k-adityyaaa.vercel.app/)
+- ✌️Here is my [website](https://adityyaaa-github-5m9qicn8k-adityyaaa.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Java**
 
